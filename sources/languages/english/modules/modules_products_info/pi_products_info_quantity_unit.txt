@@ -1,0 +1,4 @@
+
+ module_products_info_quantity_unit = Do you want to display the type of the unit quantity sell ?
+ module_products_info_quantity_unit_description = Display the unit quantity sell
+ text_display_products_quantity_unit = Sell type :
