@@ -1,10 +1,10 @@
 <?php
 /**
- * pi_products_info_quantity_unit.php 
- * @copyright Copyright 2008 - http://www.innov-concept.com
+ * pi_products_info_quantity_unit.php
+ * @copyright 2008 - https://www.clicshopping.org
  * @Brand : ClicShopping(Tm) at Inpi all right Reserved
- * @license GPL 2 License & MIT Licence
-   
+ * @license GPL 2 & MIT
+
  */
 
   use ClicShopping\OM\Registry;
@@ -33,7 +33,7 @@
 
     public function execute() {
 
-      if (isset($_GET['products_id']) && isset($_GET['Products']) ) {
+      if (isset($_GET['products_id']) && isset($_GET['Products'])) {
 
         $content_width = (int)MODULE_PRODUCTS_INFO_QUANTITY_UNIT_CONTENT_WIDTH;
         $text_position = MODULE_PRODUCTS_INFO_QUANTITY_UNIT_POSITION;
