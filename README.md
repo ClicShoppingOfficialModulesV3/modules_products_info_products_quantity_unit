@@ -35,5 +35,17 @@ http://monsite/myAdmin/index.php?A&configuration\ProductsQuantityUnit
 
 - Copy the modules_products_info_quantity_unit.json into ClicShopping/Work/Cache/Github (manual installation)
 
+All informations about the ClicShopping
+
+ Community : https://www.clicshopping.org
+
+ Software : https://github.com/ClicShopping
+
+ Official add on : https://github.com/ClicShoppingOfficialModulesV3
+
+ Community add on : https://github.com/ClicShoppingV3Community
+
+ trademark License info : https://www.clicshopping.org/forum/trademark/ 
+
 
 
